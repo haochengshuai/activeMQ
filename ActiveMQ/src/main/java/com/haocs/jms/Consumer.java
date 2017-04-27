@@ -13,8 +13,8 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 /**
  * 说明：
  * 
- * @author xajava
- * @version 创建时间：2012-10-24 下午2:06:48
+ * @author haocs
+ * @version 创建时间：2017-04-24 下午2:06:48
  */
 public class Consumer {
 

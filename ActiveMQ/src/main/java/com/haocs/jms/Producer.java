@@ -9,7 +9,11 @@ import javax.jms.Session;
 import javax.jms.TextMessage;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
-
+/**
+ * 
+ * @author haocs
+ * @version 创建时间：2017-04-24 下午2:06:48
+ */
 public class Producer {
 
 	public static void main(String[] args) throws Exception {
